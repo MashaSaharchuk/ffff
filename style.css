@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:lightblue ;
+    padding: 10px;
+    
+}
+header b {
+       color: darkblue;
+}
+header a{
+    text-decoration: none;
+    border: 5px solid white;
+    border-radius: 10px;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    color: orange;
+    border: 2px solid purple;
+    border-radius: 10px;
+    font-size:50px;
+    font-family: Courier;
+}
+footer{
+    background-color: lightcoral;
+    padding: 2px;
+}
+
+footer p{
+    background-color: white;
+}
+nav a{
+   background-color: rgb(8, 8, 93); 
+   border: 3px solid rgb(8, 8, 93);
+   text-decoration: none;
+   color: white;
+   border-radius: 10px;
+   margin: 5px;
+   
+}
+nav{
+   text-align: center;
+   padding: 10px;
+}
+
+.iii{
+    border: 3px solid rgb(8, 8, 93) ;
+    background-color: white;
+    color:rgb(8, 8, 93) ;
+    padding: 2px;
+}
+
+.ra{
+    border: 3px solid rgb(0, 38, 255);
+    border-radius: 10px;
+    padding: 5px;
+}
+main{
+    margin: 20 px;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    background-color: darkorchid;
+    text-align: center;
+    border-radius:10px  ;
+}
+.rat {
+    background-color: lightblue;
+    border-radius:10px  ;
+    text-decoration: none;
+
+}
+
+
+
